@@ -1,6 +1,6 @@
 # Awesome-Multi-Tenant-Data-Governance
 
-# Top Multi-Tenant Data Governance Tools Ecosystem
+## Top Multi-Tenant Data Governance Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Tenant Isolation, Policy Enforcement & Cross-Tenant Data Access Control*  
