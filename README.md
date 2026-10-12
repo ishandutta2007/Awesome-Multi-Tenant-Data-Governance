@@ -65,9 +65,9 @@ The table below highlights leading multi-tenant data governance SaaS solutions, 
 
 ## 🌐 Open-Source GitHub Projects
 
-Curated open-source multi-tenant governance repositories, authorization frameworks, and metadata engines. Sorted in descending order by **GitHub Star Count**.
+Curated open-source multi-tenant governance repositories, authorization frameworks, and metadata engines. Sorted in descending order by **GitHub Stars_Count**.
 
-| Project | Stars | Primary Domain & Multi-Tenant Governance Focus | License |
+| Project | GitHub_Stars | Primary Domain & Multi-Tenant Governance Focus | License |
 | :--- | :--- | :--- | :--- |
 | **[Apache Airflow](https://github.com/apache/airflow)** | [<img src="https://img.shields.io/github/stars/apache/airflow?style=social&color=white" alt="Stars" />](https://github.com/apache/airflow/stargazers) | Workflow orchestration engine featuring tenant-isolated DAGs, role-based access control, and audit lineage integration. | Apache-2.0 |
 | **[Keycloak](https://github.com/keycloak/keycloak)** | [<img src="https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white" alt="Stars" />](https://github.com/keycloak/keycloak/stargazers) | Open-source IAM offering out-of-the-box tenant realm partitioning, fine-grained authorization, and identity federation. | Apache-2.0 |
